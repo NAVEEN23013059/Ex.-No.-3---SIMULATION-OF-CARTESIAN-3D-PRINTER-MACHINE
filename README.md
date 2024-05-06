@@ -60,8 +60,14 @@
 
 ## Output:
 
-### Name: 
-### Register Number:
+![image](https://github.com/NAVEEN23013059/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/150319555/e71ef3bf-1a68-4001-b500-ea4384a75b23)
+![image](https://github.com/NAVEEN23013059/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/150319555/e21b293f-00a0-48df-8b12-71fbcca2c703)
+![image](https://github.com/NAVEEN23013059/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/150319555/76107a81-b3bc-4a74-8083-bd2cc1161cbc)
+![image](https://github.com/NAVEEN23013059/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/150319555/0130eb3d-8375-4984-b8bf-224d660fda16)
+
+
+### Name: S.NAVEEN
+### Register Number:212223240106
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
